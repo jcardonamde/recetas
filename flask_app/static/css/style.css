@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 12%, #FFFB7D 100%);
+    ;
+}
+
+.div-central {
+    align-items: center;
+    justify-content: center;
+}
+
+.div-registro {
+    margin-right: 30px;
+}
+
+.cabecera-wall {
+    padding: 20px;
+}
